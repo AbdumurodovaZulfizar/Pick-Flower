@@ -1,0 +1,25 @@
+<?xml version="1.0"?><svg width="433.3333333333333" height="433.3333333333333" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1702">
+   <stop id="stop1703" offset="0" stop-opacity="0.690722" stop-color="#ffffff"/>
+   <stop id="stop1704" offset="1" stop-opacity="0" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1697">
+   <stop id="stop1698" offset="0" stop-color="#69db0e"/>
+   <stop id="stop1699" offset="1" stop-color="#397607"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1076" x1="0.434766" x2="0.434766" xlink:href="#linearGradient1697" y1="0.962463" y2="0.000028"/>
+  <linearGradient id="linearGradient1077" x1="0.491787" x2="0.491787" xlink:href="#linearGradient1697" y1="0.077503" y2="0.933531"/>
+  <linearGradient id="linearGradient1078" x1="0.478623" x2="0.482606" xlink:href="#linearGradient1702" y1="-0.037698" y2="1.321187"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g1073">
+    <path d="m393.36496,203.395401a190.403671,190.403671 0 1 1 -380.80765,0a190.403671,190.403671 0 1 1 380.80765,0z" id="path1070" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.364453" stroke="url(#linearGradient1077)" fill-rule="nonzero" fill="url(#linearGradient1076)"/>
+    <path d="m341.277893,153.236755c44.367188,-0.966797 -12.400146,-123.152876 -135.681015,-123.802786c-134.561531,-0.68712 -162.095947,110.961355 -140.719444,112.997213c0,0 36.864159,5.062622 71.939568,14.856079c56.472656,15.930817 125.549149,-13.069244 152.768753,-17.2836c30.342468,-4.697876 47.373413,15.392426 51.692139,13.233093z" id="path1713" stroke-width="0.25000000pt" fill-rule="evenodd" fill="url(#linearGradient1078)" opacity="0.9"/>
+   </g>
+  </g>
+  <text transform="rotate(-0.172323 204 203.5)" font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="Verdana" font-size="116" id="svg_2" y="249.666656" x="203.666656" stroke-width="0" stroke="#000000" fill="#ffffff">Start</text>
+ </g>
+</svg>
