@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "It is a platform game which is similar to endless runner, take a moment to play and enjoy!",
   "main": "index.js",
+  "private": "true",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/AbdumurodovaZulfizar/Pick-Flower/issues"
   },
-  "homepage": "https://github.com/AbdumurodovaZulfizar/Pick-Flower#readme"
+  "homepage": "https://github.com/AbdumurodovaZulfizar/Pick-Flower#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
