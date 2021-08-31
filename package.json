@@ -1,0 +1,20 @@
+{
+  "name": "Pick-Flower",
+  "version": "1.0.0",
+  "description": "It is a platform game which is similar to endless runner, take a moment to play and enjoy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdumurodovaZulfizar/Pick-Flower.git"
+  },
+  "keywords": [],
+  "author": "Abdumurodova Zulfizar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdumurodovaZulfizar/Pick-Flower/issues"
+  },
+  "homepage": "https://github.com/AbdumurodovaZulfizar/Pick-Flower#readme"
+}
