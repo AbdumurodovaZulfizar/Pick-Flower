@@ -1,7 +1,7 @@
 // eslint-disable-next-line import/no-unresolved
 import Phaser from 'phaser';
 import gameState from '../helpers/gameState';
-import btnImg from '../assets/images/start.svg';
+import btnImg from '../assets/images/start.png';
 import easyImg from '../assets/images/easy.png';
 import normalImg from '../assets/images/normal.png';
 import hardImg from '../assets/images/hard.png';
