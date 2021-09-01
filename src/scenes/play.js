@@ -47,22 +47,8 @@ class Play extends Phaser.Scene {
   }
 
   createParallaxBackgrounds() {
-    this.bg1 = this.add.image(0, 0, 'mountain');
     this.bg3 = this.add.image(0, 0, 'green');
-    this.bg2 = this.add.image(0, 0, 'trees');
-
-    this.bg1.setOrigin(0, 0);
-    this.bg2.setOrigin(0, 0);
     this.bg3.setOrigin(0, 0);
-
-    const gameWidth = parseFloat(this.bg3.getBounds().width);
-    const windowWidth = gameState.canvas.width;
-
-    const bg1Width = this.bg1.getBounds().width;
-    const bg2Width = this.bg2.getBounds().width;
-
-    this.bg1.setScrollFactor((bg1Width - windowWidth) / (gameWidth - windowWidth));
-    this.bg2.setScrollFactor((bg2Width - windowWidth) / (gameWidth - windowWidth));
   }
 
   createPlatforms() {
@@ -73,8 +59,8 @@ class Play extends Phaser.Scene {
     this.land.create(100, 340, 'mini-platform');
     this.land.create(340, 340, 'mini-platform');
     this.land.create(520, 340, 'mini-platform');
-    this.land.create(680, 500, 'mini-platform');
-    this.land.create(780, 240, 'mini-platform');
+    this.land.create(680, 450, 'mini-platform');
+    this.land.create(750, 280, 'mini-platform');
     this.land.create(940, 340, 'mini-platform');
   }
 

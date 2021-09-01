@@ -1,4 +1,5 @@
 // eslint-disable-next-line import/no-unresolved
+import 'regenerator-runtime/runtime';
 import Phaser from 'phaser';
 import './style.css';
 import gameState from './helpers/gameState';

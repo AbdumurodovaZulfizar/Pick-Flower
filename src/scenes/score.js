@@ -2,7 +2,7 @@
 import Phaser from 'phaser';
 import gameState from '../helpers/gameState';
 import topScorersImg from '../assets/images/top-scorers.png';
-import getData from '../helpers/dataSet';
+import getData from '../helpers/dataGet';
 import scoreMusic from '../assets/sounds/score.wav';
 
 class Score extends Phaser.Scene {

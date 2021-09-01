@@ -44,8 +44,6 @@ class GameOver extends Phaser.Scene {
   }
 
   addImages() {
-    this.add.image(gameState.canvas.width * 0.5, gameState.canvas.height * 0.5, 'tree');
-    this.add.image(gameState.canvas.width * 0.5, 95, 'leaf');
     this.add.image(gameState.canvas.width * 0.5, gameState.canvas.height * 0.18, 'gameover-title');
   }
 
