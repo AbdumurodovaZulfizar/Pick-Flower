@@ -27,7 +27,7 @@
 
 ## What I have done 👍
 
-- Planned the game overview and specific mechanic with [Game Design Document(GDD)](./game-design-document.md)
+- Planned the game overview and specific mechanic with [Game Design Document(GDD)](./design.md)
 - Built platform game with [Phaser library](https://phaser.io/phaser3)
 - Implemented a scoring system using the given API to save the score with a username and display it in a game view
 - Deployed to a server so the game is accessible for anyone
