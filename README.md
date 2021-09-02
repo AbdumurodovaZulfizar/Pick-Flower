@@ -14,6 +14,7 @@
 * [Live Demo](#live-demo)
 * [Game Design Document(GDD)](#game-design-document)
 * [Getting Started](#getting-started)
+* [Tests](#test)
 * [How to run the game](#how-to-run-the-game)
 * [What is Pick Flowers](#what-is-pick-flowers)
 * [How to play the game](#how-to-play-the-game)
@@ -30,6 +31,7 @@
 - Built platform game with [Phaser library](https://phaser.io/phaser3)
 - Implemented a scoring system using the given API to save the score with a username and display it in a game view
 - Deployed to a server so the game is accessible for anyone
+- Write tests with [Jest](https://jestjs.io/)
 
 Also, these features are added:
 - Three modes: Easy, normal, and hard that is different on the speed of showing enemies and fruits
@@ -67,6 +69,22 @@ git clone https://github.com/AbdumurodovaZulfizar/Pick-Flower.git
 ```
 
 7. Press Enter. Your local copy will be created.
+
+## Test
+
+1. To run the tests
+
+```
+  npm test
+
+```
+
+2. To test scpesific file
+
+```
+npm test _file_name_
+
+```
 
 ## How to run the game
 
