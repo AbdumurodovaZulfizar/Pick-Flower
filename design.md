@@ -1,4 +1,4 @@
-![game-image.jpg](./design.jpg)
+![game-image.jpg](./src/assets/images/design.jpg)
 
 **🎮️ Name of the game:  Pick Flower!\
 👥 Stakeholders:**
