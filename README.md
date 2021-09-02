@@ -102,9 +102,8 @@ npm install
 npm run build
 ```
 
-```
-localhost:5500/dist/
-```
+- Then Click `Go Live` at the right-bottom corner of VSCode, and click dist directory (Or simply click right side of mouse on the index.html and select _Open with live server_)
+
 
 ## What is Pick flowers
 
