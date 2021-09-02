@@ -7,7 +7,7 @@
   "scripts": {
     "test": "jest",
     "build:dev": "webpack --mode development",
-    "build": "webpack --mode production",
+    "build": "webpack",
     "start": "webpack serve --mode development --open"
   },
   "repository": {
