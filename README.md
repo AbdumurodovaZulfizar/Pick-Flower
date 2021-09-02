@@ -50,7 +50,7 @@ Also, these features are added:
 
 ## Game Design Document(GDD)
 
-[Game Design Document (GDD) Link](./game-design-document.md)
+[Game Design Document (GDD) Link](./design.md)
 
 ## Getting Started
 
