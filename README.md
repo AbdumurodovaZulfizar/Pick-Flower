@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-* [What I have done](#about-the-project)
+* [What I have done](#what-i-have-done)
 * [Built With](#built-with)
 * [Live Demo](#live-demo)
 * [Game Design Document(GDD)](#game-design-document)
