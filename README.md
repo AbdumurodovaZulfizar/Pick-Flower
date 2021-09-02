@@ -75,7 +75,7 @@ git clone https://github.com/AbdumurodovaZulfizar/Pick-Flower.git
 1. To run the tests
 
 ```
-  npm test
+npm test
 
 ```
 
