@@ -1,4 +1,3 @@
-
 import gameState from './gameState';
 
 const scoreRate = () => {
