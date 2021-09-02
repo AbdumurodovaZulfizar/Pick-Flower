@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-unresolved
 import Phaser from 'phaser';
 import gameState from '../helpers/gameState';
 import playerImg from '../assets/images/player.png';

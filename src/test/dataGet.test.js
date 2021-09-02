@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-unresolved
 import axios from 'axios';
 import getData from '../helpers/dataGet';
 import 'regenerator-runtime/runtime';

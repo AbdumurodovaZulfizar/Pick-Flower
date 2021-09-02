@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-extraneous-dependencies, import/no-unresolved
 import { jest } from '@jest/globals';
 import setMode from '../helpers/modeSet';
 import gameState from '../helpers/gameState';

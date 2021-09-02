@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-unresolved
 import axios from 'axios';
 import setData from '../helpers/dataSet';
 
