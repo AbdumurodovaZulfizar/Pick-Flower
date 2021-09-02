@@ -4,8 +4,8 @@ const gameState = {
   speed: 240,
   ups: 380,
   score: 0,
-  fruitDelay: null,
-  enemyDelay: null,
+  flowerDelay: null,
+  thornDelay: null,
 };
 
 export default gameState;
