@@ -86,6 +86,8 @@ npm test _file_name_
 
 ```
 
+[All tests have passed](./src/assets/images/test.PNG)
+
 ## How to run the game
 
 ```
